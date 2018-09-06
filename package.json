@@ -1,5 +1,5 @@
 {
-  "name": "cookieconsent",
+  "name": "@finanzcheck/cookieconsent",
   "version": "3.1.1",
   "description": "Insites' cookie consent tool.",
   "main": "build/cookieconsent.min.js",
