@@ -18,13 +18,16 @@
     "yargs": "^5.0.0",
     "gulp-diff": "^1.0.0"
   },
+  "publishConfig": {
+    "registry": "http://npm.finanzcheck.de:8080/"
+  },
   "homepage": "http://cookieconsent.insites.com/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/insites/cookieconsent.git"
+    "url": "https://github.com/finanzcheck/cookieconsent.git"
   },
   "author": "Silktide Ltd.",
   "license": "MIT"
